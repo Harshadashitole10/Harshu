@@ -19,7 +19,7 @@
 </head>
 <body>
   <h1 align="center">Student Info</h1>
-  <h3 align="center">Name :- Priya Jadhav</h3>
+  <h3 align="center">Name :- shitole harshada</h3>
   <p align="center">Role  :- AI Student at VPKBIET</p>
   <h2>Education</h2>
   <h3>Degree :- Bachelor of Technology</h3>
